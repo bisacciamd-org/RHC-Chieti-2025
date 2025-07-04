@@ -1,0 +1,9 @@
+
+.history/
+data/
+docs/
+*.csv
+*.xlsx
+*.xls
+*.secret
+/.quarto/
