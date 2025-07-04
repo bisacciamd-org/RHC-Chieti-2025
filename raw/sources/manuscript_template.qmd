@@ -1,0 +1,96 @@
+---
+title: "Manuscript Title"
+format:
+  docx: 
+    number-sections: true
+---
+
+# ORIGINAL RESEARCH
+
+**Manuscript Title**
+
+Author One MD^1,2^, Author Two MBBS, PhD^3^, Author Three MB ChB^4^, Author Four BM, BCh, MA, PhD^5^
+
+^1^ Department, Institution, City, Country
+^2^ Department, Institution, City, Country
+^3^ Department, Institution, City, Country
+^4^ Department, Institution, City, Country
+^5^ Department, Institution, City, Country
+
+**Short title**: Running Head (50 characters or less)
+
+**Word count**: Total (Introduction to Conclusion)
+
+**Corresponding Author**
+Name and Degrees
+Institution
+Address
+Email
+
+**Disclosures:** Author disclosures or "None declared"
+
+# ABSTRACT
+
+**Background**: 
+
+**Objectives**: 
+
+**Methods**: 
+
+**Results**: 
+
+**Conclusions**: 
+
+**Trial Registration**: If applicable
+
+**Abstract word count**: 
+
+**Key words**: Keyword 1; Keyword 2; Keyword 3; Keyword 4; Keyword 5
+
+# CONDENSED ABSTRACT
+
+# ABBREVIATIONS AND ACRONYMS
+
+# INTRODUCTION
+
+# METHODS
+
+## Design
+
+## Patients
+
+## Investigational procedures and their analysis
+
+## Statistics
+
+# RESULTS
+
+# DISCUSSION
+
+# CONCLUSIONS
+
+# DATA SHARING STATEMENT
+
+# FUNDING AND ACKNOWLEDGEMENTS
+
+**Funding Sources:** 
+
+**Acknowledgements**: 
+
+# CONTRIBUTORS
+
+# REFERENCES
+
+# FIGURE LEGENDS
+
+**Figure 1.** 
+
+**Figure 2.** 
+
+# TABLES
+
+**Table 1.** 
+
+**Table 2.** 
+
+# SUPPLEMENTARY MATERIAL
